@@ -1,7 +1,7 @@
 # Software Engineering Lab
 
-**Student Name:** M Naga Sai Abhiram  
-**SRN:** PES1UG24AM151  
+**Student Name:** Nishkal M R 
+**SRN:** PES1UG24AM181  
 **Course:** Software Engineering (SE)
 
 
