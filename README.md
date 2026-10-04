@@ -17,3 +17,10 @@
 - [Use Case Diagram](./LAB1/Use-Case-Diagram.jpeg)
 - [Use Case Flow](./LAB1/UsecaseFlow_SE_Lab1_Team6.pdf)
 - [Test Case - 04](./LAB1/PES1UG24AM181_SE_Lab1_TC1.pdf)
+
+
+### Lab 2: Agile Backlog Creation & Sprint Simulation in Jira
+
+**Problem Statement #6:** Alumni Mentorship & Mock Interview Platform
+
+- [Jira Report](./LAB2/PES1UG24AM181_SE_Lab2_Jira_Report.pdf)
